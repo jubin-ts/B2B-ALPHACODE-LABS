@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-11T08:25:40.130Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="3ynqynfKKLEIo8Tp95yv" version="21.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-11T11:41:21.126Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="Yl6Poddv0NLL_9Jwd1Pv" version="21.1.5" type="github">
   <diagram name="Page-1" id="0cIx-DikGouMbDhrj9Lz">
     <mxGraphModel dx="954" dy="1647" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -101,6 +101,28 @@
         </mxCell>
         <mxCell id="my0FjWTTBEolXHgoY7NH-73" value="Redirected to login page" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="105" y="-171" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XH4emwbXjHKhtPmTx2ha-1" value="Configuraration Micro Services" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="760" y="-536" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="XH4emwbXjHKhtPmTx2ha-2" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="799.5" y="-66" as="sourcePoint" />
+            <mxPoint x="799.5" y="-456" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XH4emwbXjHKhtPmTx2ha-3" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="my0FjWTTBEolXHgoY7NH-57">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="560" y="-177" as="sourcePoint" />
+            <mxPoint x="800" y="-177" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="680" y="-177" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XH4emwbXjHKhtPmTx2ha-4" value="Configure" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="680" y="-210" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
